@@ -1,0 +1,13 @@
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\bin\Debug\net8.0\CodeXSnips.Utility.deps.json
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\bin\Debug\net8.0\CodeXSnips.Utility.dll
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\bin\Debug\net8.0\CodeXSnips.Utility.pdb
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\CodeXSnips.Utility.csproj.AssemblyReference.cache
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\CodeXSnips.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\CodeXSnips.Utility.AssemblyInfoInputs.cache
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\CodeXSnips.Utility.AssemblyInfo.cs
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\CodeXSnips.Utility.csproj.CoreCompileInputs.cache
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\CodeXSnips.Utility.sourcelink.json
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\CodeXSnips.Utility.dll
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\refint\CodeXSnips.Utility.dll
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\CodeXSnips.Utility.pdb
+D:\CoderOm\ASP.NET Core MVC (.NET 8)\CodeXSnips\CodeXSnips.Utility\obj\Debug\net8.0\ref\CodeXSnips.Utility.dll

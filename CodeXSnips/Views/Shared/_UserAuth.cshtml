@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- title and description-->
+    <title>@ViewData["Title"] - CodeXSnips</title>
+    <meta name="description" content="CodeXSnips - Share your code snips, code reels.">
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CodeXSnips.styles.css" asp-append-version="true" />
+
+    <!-- Favicon -->
+    <link href="~/assets/images/favicon.png" rel="icon" type="image/png">
+
+    <title>Instello</title>
+
+    <!-- css files -->
+    <link rel="stylesheet" href="~/assets/css/tailwind.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+
+    <!-- google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
+
+</head>
+<body class="bg-white dark:bg-slate-900">
+
+    @RenderBody();
+
+    <!-- Uikit js you can use cdn  https://getuikit.com/docs/installation  or fine the latest  https://getuikit.com/docs/installation -->
+    <script src="~/assets/js/uikit.min.js"></script>
+    <script src="~/assets/js/script.js"></script>
+
+    <!-- Ion icon -->
+    <script type="module" src="~/unpkg.com/ionicons%405.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="~/unpkg.com/ionicons%405.5.2/dist/ionicons/ionicons.js"></script>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

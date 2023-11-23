@@ -1,0 +1,125 @@
+Template options:
+1.
+https://preview.themeforest.net/item/instello-ultimate-photo-sharing-html-template/full_screen_preview/29882650?_ga=2.143624179.714494136.1700496960-638415007.1684906442
+https://demo.foxthemes.net/instello/home.html
+
+2.
+https://preview.themeforest.net/item/osahanin-job-portal-social-network-html-template/full_screen_preview/25255511?_ga=2.110543811.714494136.1700496960-638415007.1684906442
+https://askbootstrap.com/preview/osahanin/light/index.html
+
+3.
+http://preview.themeforest.net/item/sociala-social-network-app-html-template/full_screen_preview/31502548?_ga=2.111601346.714494136.1700496960-638415007.1684906442
+https://uitheme.net/sociala/default.html
+
+#########################################
+
+# CodeXSnips Internal Documentation
+
+## Overview/Introduction
+
+CodeXSnips is an open-source web application dedicated to facilitating the sharing and exploration of code-related content among developers. This internal documentation serves as a guide for the development team, providing a concise overview of the project.
+
+## Features
+
+- **User Management:**
+  - Registration
+  - Profile customization
+
+- **Code Snippets:**
+  - Creation
+  - Interaction (Comments, Shares, Likes)
+
+- **Code Reels:**
+  - Compilation
+  - Interaction (Comments, Shares, Likes)
+
+- **Stories:**
+  - Narratives
+  - Interaction (Likes)
+
+- **Code Snips Chatting:**
+  - Communication through code snippets
+
+- **Follow Feature:**
+  - Open follow system
+
+## Technology Stack
+
+- **Frontend:**
+  - HTML, CSS, JavaScript
+  - [React or Angular]
+
+- **Backend:**
+  - ASP.NET Core
+
+- **Database:**
+  - SQL Server
+
+- **Authentication:**
+  - ASP.NET Core Identity
+
+- **Real-time Communication:**
+  - SignalR
+
+## Database Schema
+
+- **User Table:**
+  - UserId
+  - Username
+  - Email
+  - PasswordHash
+  - ...
+
+- **CodeSnippet Table:**
+  - CodeSnippetId
+  - Title
+  - ImageData
+  - ImageMimeType
+  - Language
+  - CreatedAt
+  - UserId (Foreign Key)
+  - ...
+
+- **CodeReel Table:**
+  - CodeReelId
+  - Title
+  - CreatedAt
+  - UserId (Foreign Key)
+  - ...
+
+- **Story Table:**
+  - StoryId
+  - Title
+  - Content
+  - CreatedAt
+  - UserId (Foreign Key)
+  - ...
+
+- ...
+
+## N-Tier Architecture
+
+- **Repository Layer Interfaces:**
+  - IUserRepository
+  - ICodeSnippetRepository
+  - ICodeReelRepository
+  - IStoryRepository
+  - ...
+
+- **Repository Layer Implementations:**
+  - UserRepository
+  - CodeSnippetRepository
+  - CodeReelRepository
+  - StoryRepository
+  - ...
+
+- **Service Layer:**
+  - UserService
+  - CodeSnippetService
+  - CodeReelService
+  - StoryService
+  - ...
+
+## Contributing
+
+[Add guidelines for internal contributors, including how to report issues and suggest improvements.]

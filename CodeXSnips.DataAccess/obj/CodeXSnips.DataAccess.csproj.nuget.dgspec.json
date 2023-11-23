@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.DataAccess\\CodeXSnips.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.DataAccess\\CodeXSnips.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.DataAccess\\CodeXSnips.DataAccess.csproj",
+        "projectName": "CodeXSnips.DataAccess",
+        "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.DataAccess\\CodeXSnips.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\omsha\\.nuget\\packages\\",
+        "outputPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj": {
+                "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj"
+              },
+              "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj": {
+                "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj",
+        "projectName": "CodeXSnips.Models",
+        "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj",
+        "packagesPath": "C:\\Users\\omsha\\.nuget\\packages\\",
+        "outputPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj",
+        "projectName": "CodeXSnips.Utility",
+        "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj",
+        "packagesPath": "C:\\Users\\omsha\\.nuget\\packages\\",
+        "outputPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Reels View";
+}
+<main class="2xl:ml-[--w-side] xl:ml-[--w-side-md] md:ml-[--w-side-small]">
+
+    <div class="flex justify-center items-center w-full min-h-screen relative">
+
+        <div class="lg:rounded-xl shadow-xl bg-white relative lg:h-[calc(100vh-60px)] h-[calc(100vh-120px)]">
+
+            <iframe class="rounded-xl aspect-[9/16] h-full" src="https://www.youtube.com/embed/JAJ8V9rSB6w" frameborder="0" allowfullscreen uk-video="autoplay: inview"></iframe>
+
+
+            <!-- action buttons -->
+            <div class="absolute bottom-0 md:-right-14 right-0 max-md:m-3 z-10">
+                <div class="flex flex-col gap-4 text-sm dark:text-white">
+
+                    <div>
+                        <button type="button" class="bg-slate-200/80 p-2 rounded-full hover:scale-110 duration-200">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+                                <path d="M1 8.25a1.25 1.25 0 112.5 0v7.5a1.25 1.25 0 11-2.5 0v-7.5zM11 3V1.7c0-.268.14-.526.395-.607A2 2 0 0114 3c0 .995-.182 1.948-.514 2.826-.204.54.166 1.174.744 1.174h2.52c1.243 0 2.261 1.01 2.146 2.247a23.864 23.864 0 01-1.341 5.974C17.153 16.323 16.072 17 14.9 17h-3.192a3 3 0 01-1.341-.317l-2.734-1.366A3 3 0 006.292 15H5V8h.963c.685 0 1.258-.483 1.612-1.068a4.011 4.011 0 012.166-1.73c.432-.143.853-.386 1.011-.814.16-.432.248-.9.248-1.388z" />
+                            </svg>
+                        </button>
+                        <div class="mt-1 text-center">54 6K</div>
+                    </div>
+
+                    <div>
+                        <button type="button" class="bg-slate-200/80 p-2 rounded-full hover:scale-110 duration-200">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+                                <path d="M18.905 12.75a1.25 1.25 0 01-2.5 0v-7.5a1.25 1.25 0 112.5 0v7.5zM8.905 17v1.3c0 .268-.14.526-.395.607A2 2 0 015.905 17c0-.995.182-1.948.514-2.826.204-.54-.166-1.174-.744-1.174h-2.52c-1.242 0-2.26-1.01-2.146-2.247.193-2.08.652-4.082 1.341-5.974C2.752 3.678 3.833 3 5.005 3h3.192a3 3 0 011.342.317l2.733 1.366A3 3 0 0013.613 5h1.292v7h-.963c-.684 0-1.258.482-1.612 1.068a4.012 4.012 0 01-2.165 1.73c-.433.143-.854.386-1.012.814-.16.432-.248.9-.248 1.388z" />
+                            </svg>
+                        </button>
+                        <div class="mt-1 text-center">Dislike</div>
+                    </div>
+
+                    <div>
+                        <button type="button" class="bg-slate-200/80 p-2 rounded-full hover:scale-110 duration-200">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+                                <path fill-rule="evenodd" d="M10 2c-2.236 0-4.43.18-6.57.524C1.993 2.755 1 4.014 1 5.426v5.148c0 1.413.993 2.67 2.43 2.902 1.168.188 2.352.327 3.55.414.28.02.521.18.642.413l1.713 3.293a.75.75 0 001.33 0l1.713-3.293a.783.783 0 01.642-.413 41.102 41.102 0 003.55-.414c1.437-.231 2.43-1.49 2.43-2.902V5.426c0-1.413-.993-2.67-2.43-2.902A41.289 41.289 0 0010 2zM6.75 6a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-6.5zm0 2.5a.75.75 0 000 1.5h3.5a.75.75 0 000-1.5h-3.5z" clip-rule="evenodd" />
+                            </svg>
+                        </button>
+                        <div class="mt-1 text-center">3.4K</div>
+                    </div>
+
+                    <div>
+                        <button type="button" class="bg-slate-200/80 p-2 rounded-full hover:scale-110 duration-200">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+                                <path d="M3.105 2.289a.75.75 0 00-.826.95l1.414 4.925A1.5 1.5 0 005.135 9.25h6.115a.75.75 0 010 1.5H5.135a1.5 1.5 0 00-1.442 1.086l-1.414 4.926a.75.75 0 00.826.95 28.896 28.896 0 0015.293-7.154.75.75 0 000-1.115A28.897 28.897 0 003.105 2.289z" />
+                            </svg>
+                        </button>
+                        <div class="mt-1 text-center">Share</div>
+                    </div>
+
+                    <div>
+                        <button type="button" class="bg-slate-200/80 p-2 rounded-full hover:scale-110 duration-200">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-7 h-7">
+                                <path fill-rule="evenodd" d="M4.5 12a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0zm6 0a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0zm6 0a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0z" clip-rule="evenodd" />
+                            </svg>
+                        </button>
+                        <div class="w-[253px]" uk-dropdown="pos: bottom-right; offset: 10; animation: uk-animation-slide-bottom-small">
+                            <nav>
+                                <a href="#"> <ion-icon class="text-xl" name="pricetags-outline"></ion-icon>    Add to Timeline </a>
+                                <a href="#"> <ion-icon class="text-xl" name="time-outline"></ion-icon>      Save to Watch later </a>
+                                <a href="#"> <ion-icon class="text-xl" name="bookmark-outline"></ion-icon>  Save to playlist </a>
+                                <a href="#"> <ion-icon class="text-xl" name="share-outline"></ion-icon>  Share </a>
+                                <hr>
+                                <a href="#"> <ion-icon class="text-xl" name="heart-dislike-outline"></ion-icon>    Not interested </a>
+                                <a href="#"> <ion-icon class="text-xl" name="power-outline"></ion-icon>    Don't recommend user </a>
+                                <a href="#" class="text-red-400 hover:!bg-red-50 dark:hover:!bg-red-500/50"> <ion-icon class="text-xl" name="flag-outline"></ion-icon>  Report </a>
+                            </nav>
+                        </div>
+                    </div>
+
+                    <a asp-controller="Home" asp-action="Profile" class="hover:scale-110 duration-200">
+                        <img src="~/assets/images/avatars/avatar-3.jpg" alt="" class="w-9 h-9 shadow object-cover rounded-full">
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</main>
