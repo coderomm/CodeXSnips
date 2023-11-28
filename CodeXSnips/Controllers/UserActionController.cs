@@ -1,6 +1,9 @@
 ﻿using CodeXSnips.DataAccess.Repository.IRepository;
+using CodeXSnips.Models;
 using CodeXSnips.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.DotNet.Scaffolding.Shared.CodeModifier.CodeChange;
+using System.Security.Claims;
 
 namespace CodeXSnipsWeb.Controllers
 {
@@ -40,6 +43,8 @@ namespace CodeXSnipsWeb.Controllers
                     codeSnippetVM.CodeSnippet.CodeImage = @"\images\CodeSnippet\" + fileName;
                 }
 
+                codeSnippetVM.CodeSnippet.UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
                 if (codeSnippetVM.CodeSnippet.CodeSnippetId == 0)
                 {
                     _unitOfWork.CodeSnippet.Add(codeSnippetVM.CodeSnippet);
@@ -48,10 +53,9 @@ namespace CodeXSnipsWeb.Controllers
                 {
                     _unitOfWork.CodeSnippet.Update(codeSnippetVM.CodeSnippet);
                 }
-
                 _unitOfWork.Save();
                 TempData["success"] = "Code snippet created successfully";
-                return RedirectToAction("Index","Home");
+                return RedirectToAction("Index", "Home");
             }
             else
             {
@@ -108,7 +112,6 @@ namespace CodeXSnipsWeb.Controllers
                 return RedirectToAction("Index", "Home");
             }
         }
-    
 
         [HttpPost]
         public IActionResult UpsertStory(StoryVM storyVM, IFormFile? file)
@@ -152,6 +155,23 @@ namespace CodeXSnipsWeb.Controllers
 
                 _unitOfWork.Save();
                 TempData["success"] = "Story created successfully";
+                return RedirectToAction("Index", "Home");
+            }
+            else
+            {
+                return RedirectToAction("Index", "Home");
+            }
+        }
+
+        [HttpPost]
+        public IActionResult AddComment(Comment comment)
+        {
+            comment.UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            if (ModelState.IsValid)
+            {
+                _unitOfWork.Comment.Add(comment);
+                _unitOfWork.Save();
+                TempData["success"] = "Comment added successfully";
                 return RedirectToAction("Index", "Home");
             }
             else

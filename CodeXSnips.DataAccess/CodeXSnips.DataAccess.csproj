@@ -22,4 +22,8 @@
     <ProjectReference Include="..\CodeXSnips.Utility\CodeXSnips.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

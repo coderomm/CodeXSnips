@@ -14,7 +14,6 @@ namespace CodeXSnips.Models
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
-        [Required]
         public string UserId { get; set; }
 
         [ForeignKey("UserId")]

@@ -1,7 +1,9 @@
 using CodeXSnips.DataAccess.Repository.IRepository;
 using CodeXSnips.Models;
+using CodeXSnips.Models.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.DotNet.Scaffolding.Shared.CodeModifier.CodeChange;
 using System.Diagnostics;
 
 namespace CodeXSnips.Controllers
@@ -14,7 +16,17 @@ namespace CodeXSnips.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            IEnumerable<Models.CodeSnippet> codeSnippetList = _unitOfWork.CodeSnippet.GetAll(includeProperties: "User,Comments,Likes");
+
+            // Map the retrieved data to CodeSnippetVM
+            CodeSnippetVM codeSnippetVM = new()
+            {
+                CodeSnippetList = codeSnippetList,
+                CommentList = codeSnippetList.SelectMany(cs => cs.Comments).ToList(),
+                LikeList = codeSnippetList.SelectMany(cs => cs.Likes).ToList(),
+            };
+
+            return View(codeSnippetVM);
         }
 
         public IActionResult Explore()

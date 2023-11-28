@@ -8,7 +8,6 @@ namespace CodeXSnips.Models
     {
         public int LikeId { get; set; }
 
-        [Required]
         public string UserId { get; set; }
 
         [ForeignKey("UserId")]

@@ -18,6 +18,7 @@ namespace CodeXSnips.DataAccess.Repository
         public IFollowRepository Follow { get; private set; }
         public ILikeRepository Like { get; private set; }
         public IStoryRepository Story { get; private set; }
+
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;

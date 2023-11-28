@@ -12,10 +12,9 @@ namespace CodeXSnips.Models
         [StringLength(500, MinimumLength = 3)]
         public string Content { get; set; }
 
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
 
-        [Required]
-        public string UserId { get; set; }
+        public string? UserId { get; set; }
 
         [ForeignKey("UserId")]
         [ValidateNever]

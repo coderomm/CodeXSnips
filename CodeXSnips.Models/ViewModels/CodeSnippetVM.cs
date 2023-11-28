@@ -10,12 +10,11 @@ namespace CodeXSnips.Models.ViewModels
     public class CodeSnippetVM
     {
         public CodeSnippet CodeSnippet { get; set; }
+        public Comment Comment { get; set; }
+        public Like Like { get; set; }
 
-        // Navigation properties
-        
-        [ValidateNever]
-        public List<Comment> Comments { get; set; }
-        [ValidateNever]
-        public List<Like> Likes { get; set; }
+        public IEnumerable<CodeSnippet> CodeSnippetList { get; set; }
+        public List<Comment> CommentList { get; set; }
+        public List<Like> LikeList { get; set; }
     }
 }

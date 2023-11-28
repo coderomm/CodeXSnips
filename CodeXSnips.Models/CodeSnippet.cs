@@ -22,6 +22,12 @@ namespace CodeXSnips.Models
 
         [ForeignKey("UserId")]
         [ValidateNever]
-        public ApplicationUser User { get; set; } 
+        public ApplicationUser User { get; set; }
+
+        [ValidateNever]
+        public List<Comment> Comments { get; set; }
+        
+        [ValidateNever]
+        public List<Like> Likes { get; set; }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N4uV/FEoHZueD+fDlPah5nNzXARQ7vpGLIYfW4xiRwI=",
+  "Hash": "z3ILsCyqCIyEYN12xsYHMyifm2hH1jw4ANYNgEE0QGg=",
   "Source": "CodeXSnipsWeb",
   "BasePath": "_content/CodeXSnipsWeb",
   "Mode": "Default",
@@ -2314,6 +2314,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg",
+      "SourceId": "CodeXSnipsWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "BasePath": "_content/CodeXSnipsWeb",
+      "RelativePath": "images/CodeSnippet/0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg"
     },
     {
       "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\js\\site.js",

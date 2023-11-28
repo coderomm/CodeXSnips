@@ -233,6 +233,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg",
+      "PackagePath": "staticwebassets\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg"
+    },
+    {
       "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -4,6 +4,7 @@ using CodeXSnips.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CodeXSnips.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231128123120_RemovedForeignKeyUserIdFromComment")]
+    partial class RemovedForeignKeyUserIdFromComment
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -135,7 +138,8 @@ namespace CodeXSnips.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(450)");
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("CommentId");
 
@@ -144,8 +148,6 @@ namespace CodeXSnips.DataAccess.Migrations
                     b.HasIndex("CodeSnippetId");
 
                     b.HasIndex("StoryId");
-
-                    b.HasIndex("UserId");
 
                     b.ToTable("Comments");
                 });
@@ -507,17 +509,11 @@ namespace CodeXSnips.DataAccess.Migrations
                         .WithMany()
                         .HasForeignKey("StoryId");
 
-                    b.HasOne("CodeXSnips.Models.ApplicationUser", "User")
-                        .WithMany()
-                        .HasForeignKey("UserId");
-
                     b.Navigation("CodeReel");
 
                     b.Navigation("CodeSnippet");
 
                     b.Navigation("Story");
-
-                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("CodeXSnips.Models.Follow", b =>

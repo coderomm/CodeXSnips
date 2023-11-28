@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeXSnips.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55fdc2faaf2ed2af39329633b2a7df4c8fd48efb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+672ec9c1d9ec1f20f25a7daff6b7cc5b671f9d9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeXSnips.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeXSnips.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
