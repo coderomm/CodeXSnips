@@ -1,6 +1,6 @@
 ﻿# CodeXSnips
 
-Welcome to CodeXSnips, a collaborative platform for sharing and exploring code snippets in real-time.
+Welcome to CodeXSnips, a collaborative platform for sharing and exploring code snippets in real-time. good
 
 ## Table of Contents
 - [Introduction](#introduction)
