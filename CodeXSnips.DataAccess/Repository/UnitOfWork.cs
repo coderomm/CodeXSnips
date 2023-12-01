@@ -10,7 +10,7 @@ namespace CodeXSnips.DataAccess.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {
-        private ApplicationDbContext _db;
+        private readonly ApplicationDbContext _db;
         public ICodeReelRepository CodeReel { get; private set; }
         public ICodeSnipChatMessageRepository CodeSnipChatMessage { get; private set; }
         public ICodeSnippetRepository CodeSnippet { get; private set; }
@@ -18,6 +18,7 @@ namespace CodeXSnips.DataAccess.Repository
         public IFollowRepository Follow { get; private set; }
         public ILikeRepository Like { get; private set; }
         public IStoryRepository Story { get; private set; }
+        public IUserRepository User { get; private set; }
 
         public UnitOfWork(ApplicationDbContext db)
         {
@@ -29,6 +30,7 @@ namespace CodeXSnips.DataAccess.Repository
             Follow = new FollowRepository(_db);
             Like = new LikeRepository(_db);
             Story = new StoryRepository(_db);
+            User = new UserRepository(_db);
         }
 
         public void Save()

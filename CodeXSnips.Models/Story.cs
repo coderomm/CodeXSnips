@@ -8,16 +8,16 @@ namespace CodeXSnips.Models
     {
         public int StoryId { get; set; }
 
-        [Required]
-        [StringLength(100, MinimumLength = 3)]
-        public string Title { get; set; }
+        [StringLength(18, ErrorMessage ="Too long caption!")]
+        public string Content { get; set; }
 
-        [Required]
-        public string StoryMedia { get; set; }
+        [Required(ErrorMessage = "Choose the file")]
+        public string MediaPath { get; set; }
 
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+        public DateTime CreatedAt { get; set; }
 
-        // Foreign Key
+        public DateTime ExpiresAt { get; set; }
+
         public string UserId { get; set; }
 
         [ForeignKey("UserId")]

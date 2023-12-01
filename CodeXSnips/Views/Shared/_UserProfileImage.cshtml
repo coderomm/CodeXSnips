@@ -1,0 +1,9 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model ApplicationUser
+@inject UserManager<ApplicationUser> UserManager
+
+@if (Model != null && User.Identity.IsAuthenticated)
+{
+    var profileImageUrl = Model.ProfileImage;
+    <img src="@(!string.IsNullOrEmpty(profileImageUrl) ? profileImageUrl : "images/default-coder-profile.jpg")" alt="Profile Image" class="rounded-full md:w-7 md:h-7 w-5 h-5 shrink-0" />
+}

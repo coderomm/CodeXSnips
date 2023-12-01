@@ -1,5 +1,6 @@
-﻿@{
-    ViewData["Title"] = "Profile";
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = Model.UserName;
 }
 <main class="2xl:ml-[--w-side] xl:ml-[--w-side-md] md:ml-[--w-side-small]">
 
@@ -11,18 +12,18 @@
             <div class="flex md:gap-16 gap-4 max-md:flex-col">
                 <div class="relative md:p-1 rounded-full h-full max-md:w-16 bg-gradient-to-tr from-pink-400 to-pink-600 shadow-md hover:scale-110 duration-500 uk-animation-scale-up">
                     <div class="relative md:w-40 md:h-40 h-16 w-16 rounded-full overflow-hidden md:border-[6px] border-gray-100 shrink-0 dark:border-slate-900">
-                        <img src="~/assets/images/avatars/avatar-6.jpg" alt="" class="w-full h-full absolute object-cover">
+                        <img src="@Model.ProfileImage" alt="" class="w-full h-full absolute object-cover">
                     </div>
                     <button type="button" class="absolute -bottom-2 left-1/2 -translate-x-1/2 bg-white shadow p-1.5 rounded-full sm:flex hidden"> <ion-icon name="camera" class="text-2xl"></ion-icon></button>
                 </div>
                 <div class="max-w-2x flex-1">
-                    <h3 class="md:text-xl text-base font-semibold text-black dark:text-white"> Monroe Parker </h3>
+                    <h3 class="md:text-xl text-base font-semibold text-black dark:text-white"> @Model.FullName </h3>
 
-                    <p class="sm:text-sm text-blue-600 mt-1 font-normal text-xs">@@Monroepak</p>
+                    <p class="sm:text-sm text-blue-600 mt-1 font-normal text-xs">@Model.UserName</p>
 
-                    <p class="text-sm mt-2 md:font-normal font-light"> I love beauty and emotion. 🥰 I’m passionate about photography and learning. 📚 I explore genres and styles. 🌈 I think photography is storytelling. 📖 I hope you like and feel my photos. 😊</p>
+                    <p class="text-sm mt-2 md:font-normal font-light"> @Model.Bio</p>
 
-                    <p class="mt-2 space-x-2 text-gray-500 text-sm hidden" style="margin-top: 11px; "><a href="#" class="inline-block">Travel</a> . <a href="#" class="inline-block">Business</a> . <a href="#" class="inline-block">Technolgy</a>  </p>
+                    <p class="mt-2 space-x-2 text-gray-500 text-sm" style="margin-top: 11px; "><a href="#" class="inline-block">Travel</a> . <a href="#" class="inline-block">Business</a> . <a href="#" class="inline-block">Technolgy</a>  </p>
 
                     <div class="flex md:items-end justify-between md:mt-8 mt-4 max-md:flex-col gap-4">
                         <div class="flex sm:gap-10 gap-6 sm:text-sm text-xs max-sm:absolute max-sm:top-10 max-sm:left-36">

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
@@ -12,16 +13,21 @@ namespace CodeXSnips.Models
         public string FullName { get; set; }
 
         [StringLength(500)]
-        public string Bio { get; set; }
+        public string? Bio { get; set; }
 
         [StringLength(255)]
-        public string ProfileImage { get; set; }
+        public string? ProfileImage { get; set; }
 
         // Navigation properties
+        [ValidateNever]
         public List<CodeSnippet> CodeSnippets { get; set; }
+        [ValidateNever]
         public List<CodeReel> CodeReels { get; set; }
+        [ValidateNever]
         public List<Story> Stories { get; set; }
+        [ValidateNever]
         public List<CodeSnipChatMessage> CodeSnipChatMessages { get; set; }
+        [ValidateNever]
         public List<Follow> Followers { get; set; }
     }
 }

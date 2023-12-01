@@ -9,15 +9,13 @@ namespace CodeXSnips.Models
     {
         public int CodeSnippetId { get; set; }
 
-        [Required]
-        [StringLength(100, MinimumLength = 3)]
-        public string Title { get; set; }
+        public string Content { get; set; }
 
-        public string? CodeImage { get; set; }
+        [Required(ErrorMessage = "Choose the file")]
+        public string MediaPath { get; set; }
 
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
 
-        // Foreign Key
         public string? UserId { get; set; }
 
         [ForeignKey("UserId")]

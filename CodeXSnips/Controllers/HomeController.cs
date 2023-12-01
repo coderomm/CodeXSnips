@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.DotNet.Scaffolding.Shared.CodeModifier.CodeChange;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace CodeXSnips.Controllers
 {
@@ -18,62 +19,66 @@ namespace CodeXSnips.Controllers
         {
             IEnumerable<Models.CodeSnippet> codeSnippetList = _unitOfWork.CodeSnippet.GetAll(includeProperties: "User,Comments,Likes");
 
-            // Map the retrieved data to CodeSnippetVM
-            CodeSnippetVM codeSnippetVM = new()
+            AllVM allViewModel = new()
             {
                 CodeSnippetList = codeSnippetList,
                 CommentList = codeSnippetList.SelectMany(cs => cs.Comments).ToList(),
                 LikeList = codeSnippetList.SelectMany(cs => cs.Likes).ToList(),
+                UserList = _unitOfWork.User.GetAll().ToList(),
+                StoryList = _unitOfWork.Story.GetAll().ToList()
             };
 
-            return View(codeSnippetVM);
+            return View(allViewModel);
         }
 
         public IActionResult Explore()
         {
             return View();
         }
-        
+
         public IActionResult FormLogin()
         {
             return View();
         }
-        
+
         public IActionResult FormRegister()
         {
             return View();
         }
-        
+
         public IActionResult Messages()
         {
             return View();
         }
-        
-        public IActionResult Profile()
+
+        public IActionResult Profile(string id)
         {
-            return View();
+            ApplicationUser model = _unitOfWork.User.Get(u => u.Id == id);
+            return View(model);
         }
-        
+
         public IActionResult Reels()
         {
             return View();
         }
-        
+
         public IActionResult ReelsView()
         {
             return View();
         }
-        
+
         public IActionResult Setting()
         {
-            return View();
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            ApplicationUser model = _unitOfWork.User.Get(u => u.Id == userId);
+            return View(model);
         }
-        
+
         public IActionResult Shop()
         {
             return View();
         }
-        
+
         public IActionResult Coders()
         {
             return View();

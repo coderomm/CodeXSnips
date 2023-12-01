@@ -237,6 +237,34 @@
       "PackagePath": "staticwebassets\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg"
     },
     {
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\2529685b-2e22-4e14-8d26-2f987cc56682.mp4",
+      "PackagePath": "staticwebassets\\images\\CodeSnippet\\2529685b-2e22-4e14-8d26-2f987cc56682.mp4"
+    },
+    {
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\60241a5c-9383-4fca-98e1-1328579f983c.png",
+      "PackagePath": "staticwebassets\\images\\CodeSnippet\\60241a5c-9383-4fca-98e1-1328579f983c.png"
+    },
+    {
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\1a90d038-0bd2-41e7-bc8f-a0e9c859d20f.jpeg",
+      "PackagePath": "staticwebassets\\images\\Story\\1a90d038-0bd2-41e7-bc8f-a0e9c859d20f.jpeg"
+    },
+    {
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\573e080c-acd5-4445-8932-7c118de0585f.mp4",
+      "PackagePath": "staticwebassets\\images\\Story\\573e080c-acd5-4445-8932-7c118de0585f.mp4"
+    },
+    {
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\87e41d70-dda0-41ce-91e8-484d9b985d32.png",
+      "PackagePath": "staticwebassets\\images\\Story\\87e41d70-dda0-41ce-91e8-484d9b985d32.png"
+    },
+    {
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\User\\c35841c3-aca6-48e1-a792-6744dbc7f3c5.png",
+      "PackagePath": "staticwebassets\\images\\User\\c35841c3-aca6-48e1-a792-6744dbc7f3c5.png"
+    },
+    {
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\default-coder-profile.jpg",
+      "PackagePath": "staticwebassets\\images\\default-coder-profile.jpg"
+    },
+    {
       "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -29,7 +29,9 @@
   <ItemGroup>
     <Folder Include="wwwroot\images\CodeSnippet\" />
     <Folder Include="wwwroot\images\CodeReel\" />
-    <Folder Include="wwwroot\images\Story\" />
+    <Folder Include="wwwroot\images\Story\images\" />
+    <Folder Include="wwwroot\images\Story\videos\" />
+    <Folder Include="wwwroot\images\User\" />
   </ItemGroup>
 
 </Project>

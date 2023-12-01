@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,7 @@ namespace CodeXSnips.DataAccess.Repository.IRepository
         IFollowRepository Follow { get; }
         ILikeRepository Like { get; }
         IStoryRepository Story { get; }
+        IUserRepository User { get; }
 
         void Save();
     }
