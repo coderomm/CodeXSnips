@@ -1,4 +1,5 @@
-﻿@{
+﻿@model IEnumerable<CodeSnippet>
+@{
     ViewData["Title"] = "Explore";
 }
 <main class="2xl:ml-[--w-side] xl:ml-[--w-side-md] md:ml-[--w-side-small]">
@@ -22,129 +23,32 @@
 
 
         <div class="gallery -mt-16" uk-scrollspy="target: > div; cls: uk-animation-scale-up; delay: 100">
-
+            @foreach (var codeSnippet in Model)
+            {
             <div class="gallery__card">
                 <a href="#preview_modal" uk-toggle="">
                     <div class="card__image">
-                        <img src="~/assets/images/post/post-1.jpg" alt="">
+                            @if (!string.IsNullOrEmpty(codeSnippet.MediaPath))
+                            {
+                                var extension = System.IO.Path.GetExtension(codeSnippet.MediaPath);
+                                if (extension.Equals(".jpg", StringComparison.OrdinalIgnoreCase) || extension.Equals(".png", StringComparison.OrdinalIgnoreCase) || extension.Equals(".jpeg", StringComparison.OrdinalIgnoreCase))
+                                {
+                                    <img src="~/@codeSnippet.MediaPath" alt="Image">
+                                }
+                                else
+                                {
+                                    <img src="~/assets/images/post/post-4.jpg" alt="">
+                                }
+                            }
+                            else
+                            {
+                                <img src="~/assets/images/post/post-5.jpg" alt="">
+                            }
+                        
                     </div>
                 </a>
             </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-2.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-3.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-4.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-5.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-3.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-5.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-4.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-2.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-1.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-1.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-5.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-3.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-4.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-
-            <div class="gallery__card">
-                <a href="#preview_modal" uk-toggle="">
-                    <div class="card__image">
-                        <img src="~/assets/images/post/post-2.jpg" alt="">
-                    </div>
-                </a>
-            </div>
-
-
+            }
             <div class="w-full h-60 bg-slate-200/60 rounded-lg dark:bg-dark2 animate-pulse"></div>
             <div class="w-full h-60 bg-slate-200/60 rounded-lg dark:bg-dark2 animate-pulse"></div>
             <div class="w-full h-60 bg-slate-200/60 rounded-lg dark:bg-dark2 animate-pulse"></div>

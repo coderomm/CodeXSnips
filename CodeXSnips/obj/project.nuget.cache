@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GTZFRRpTvuxSNbzTFu7rx+zd62s1uVnIw5d1y8c1BRnpKg54C1XYaS8hmfrGiaAbRSzjDXkei7pCd0lCAz9sAQ==",
+  "dgSpecHash": "XPqEj32w9bcxTXVeNeEajKBy/moqMZdLNHwZMLuSSjfxX+OQV/Lu7rol/YcsnnKzJ+OAskFBNWjxsKmUcAmHYA==",
   "success": true,
-  "projectFilePath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\CodeXSnipsWeb.csproj",
+  "projectFilePath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\CodeXSnipsWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omsha\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\omsha\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

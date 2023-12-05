@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQrFPZ2E3hATlD9KZr0VQ7xYYeF3h33Lohy7oW+AjiWKGYAlVdp9plPDSNxS5K8PZZh1qwONWsMmrE1vjfqD8Q==",
+  "dgSpecHash": "gCGOwkGOh16SN61mhM6cLpkhOTmy0sh+ShUcYjFRLGzIwKlOqDnY3YHR0demCpw2VOJT85N+n5X3D9Ehimr7Fw==",
   "success": true,
-  "projectFilePath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj",
+  "projectFilePath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omsha\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\omsha\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

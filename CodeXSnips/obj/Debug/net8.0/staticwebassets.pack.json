@@ -1,507 +1,507 @@
 {
   "Files": [
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CodeXSnipsWeb.bundle.scp.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CodeXSnipsWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\CodeXSnipsWeb.bundle.scp.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\css\\style.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\css\\tailwind.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\css\\tailwind.css",
       "PackagePath": "staticwebassets\\assets\\css\\tailwind.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\ad_pattern.png",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\ad_pattern.png",
       "PackagePath": "staticwebassets\\assets\\images\\ad_pattern.png"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\affect.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\affect.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\affect.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-1.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-1.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-2.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-2.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-3.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-3.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-4.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-4.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-5.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-5.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-6.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-6.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-7.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-7.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-1.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-lg-1.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-2.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-lg-2.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-3.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-lg-3.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-4.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-lg-4.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-5.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-lg-5.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\beams.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\beams.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demos\\beams.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\grid.svg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\grid.svg",
       "PackagePath": "staticwebassets\\assets\\images\\demos\\grid.svg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo1.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demos\\photo1.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo2.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demos\\photo2.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo3.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demos\\photo3.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider1.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demos\\slider1.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider2.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demos\\slider2.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider3.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demos\\slider3.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider4.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demos\\slider4.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\favicon.png",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\grid.html",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\grid.html",
       "PackagePath": "staticwebassets\\assets\\images\\grid.html"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\icon-play.svg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\icon-play.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icon-play.svg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo-dark.svg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo-dark.svg",
       "PackagePath": "staticwebassets\\assets\\images\\logo-dark.svg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo-icon.png",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo.html",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo.html",
       "PackagePath": "staticwebassets\\assets\\images\\logo.html"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo.svg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo.svg",
       "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-1.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\post\\post-1.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-2.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\post\\post-2.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-3.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\post\\post-3.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-4.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\post\\post-4.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-5.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\post\\post-5.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-1.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\product-1.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-2.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\product-2.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-3.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\product-3.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-4.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\product-4.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-5.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\product-5.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-6.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\product-6.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-1.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\reels\\reels-1.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-2.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\reels\\reels-2.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-3.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\reels\\reels-3.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-4.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\reels\\reels-4.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-5.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\reels\\reels-5.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\js\\script.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\js\\script.js",
       "PackagePath": "staticwebassets\\assets\\js\\script.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\js\\uikit.min.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\js\\uikit.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\uikit.min.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushJScript.js",
       "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\scripts\\shBrushJScript.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushXml.js",
       "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\scripts\\shBrushXml.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shCore.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shCore.js",
       "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\scripts\\shCore.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\styles\\shCore.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\styles\\shCore.css",
       "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\styles\\shCore.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\styles\\shCoreMidnight.css",
       "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\styles\\shCoreMidnight.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\css\\site.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\favicon.ico",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg",
       "PackagePath": "staticwebassets\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\2529685b-2e22-4e14-8d26-2f987cc56682.mp4",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\2529685b-2e22-4e14-8d26-2f987cc56682.mp4",
       "PackagePath": "staticwebassets\\images\\CodeSnippet\\2529685b-2e22-4e14-8d26-2f987cc56682.mp4"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\60241a5c-9383-4fca-98e1-1328579f983c.png",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\60241a5c-9383-4fca-98e1-1328579f983c.png",
       "PackagePath": "staticwebassets\\images\\CodeSnippet\\60241a5c-9383-4fca-98e1-1328579f983c.png"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\1a90d038-0bd2-41e7-bc8f-a0e9c859d20f.jpeg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\1a90d038-0bd2-41e7-bc8f-a0e9c859d20f.jpeg",
       "PackagePath": "staticwebassets\\images\\Story\\1a90d038-0bd2-41e7-bc8f-a0e9c859d20f.jpeg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\573e080c-acd5-4445-8932-7c118de0585f.mp4",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\573e080c-acd5-4445-8932-7c118de0585f.mp4",
       "PackagePath": "staticwebassets\\images\\Story\\573e080c-acd5-4445-8932-7c118de0585f.mp4"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\87e41d70-dda0-41ce-91e8-484d9b985d32.png",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\87e41d70-dda0-41ce-91e8-484d9b985d32.png",
       "PackagePath": "staticwebassets\\images\\Story\\87e41d70-dda0-41ce-91e8-484d9b985d32.png"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\User\\c35841c3-aca6-48e1-a792-6744dbc7f3c5.png",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\User\\c35841c3-aca6-48e1-a792-6744dbc7f3c5.png",
       "PackagePath": "staticwebassets\\images\\User\\c35841c3-aca6-48e1-a792-6744dbc7f3c5.png"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\default-coder-profile.jpg",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\default-coder-profile.jpg",
       "PackagePath": "staticwebassets\\images\\default-coder-profile.jpg"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\js\\site.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.esm.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.esm.js",
       "PackagePath": "staticwebassets\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.esm.js"
     },
     {
-      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.js",
+      "Id": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.js",
       "PackagePath": "staticwebassets\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.js"
     },
     {

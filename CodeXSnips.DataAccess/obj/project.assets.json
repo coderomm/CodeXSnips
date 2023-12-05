@@ -5102,11 +5102,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.DataAccess\\CodeXSnips.DataAccess.csproj",
+      "projectUniqueName": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.DataAccess\\CodeXSnips.DataAccess.csproj",
       "projectName": "CodeXSnips.DataAccess",
-      "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.DataAccess\\CodeXSnips.DataAccess.csproj",
+      "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.DataAccess\\CodeXSnips.DataAccess.csproj",
       "packagesPath": "C:\\Users\\omsha\\.nuget\\packages\\",
-      "outputPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.DataAccess\\obj\\",
+      "outputPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5123,11 +5123,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj": {
-              "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj"
+            "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj": {
+              "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.Models\\CodeXSnips.Models.csproj"
             },
-            "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj": {
-              "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj"
+            "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj": {
+              "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj"
             }
           }
         }

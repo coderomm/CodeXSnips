@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeXSnipsWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea513c7918d24360edb54f448219dc868ff8f2bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeXSnipsWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeXSnipsWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

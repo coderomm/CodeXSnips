@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JgdeLM5K1lFFh7POIJFYof+tlgI9whdXYWfdD3qNxP0=",
+  "Hash": "DU/4g8ZupG8Y7x/WYV+o5MzsGgSq2gheea0ij2UnDPg=",
   "Source": "CodeXSnipsWeb",
   "BasePath": "_content/CodeXSnipsWeb",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "CodeXSnipsWeb\\wwwroot",
       "Source": "CodeXSnipsWeb",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "Pattern": "**"
     }
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "C:\\Users\\omsha\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CodeXSnipsWeb.styles.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CodeXSnipsWeb.styles.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "CodeXSnipsWeb.styles.css",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CodeXSnipsWeb.styles.css"
+      "OriginalItemSpec": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CodeXSnipsWeb.styles.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CodeXSnipsWeb.bundle.scp.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CodeXSnipsWeb.bundle.scp.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "CodeXSnipsWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CodeXSnipsWeb.bundle.scp.css"
+      "OriginalItemSpec": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CodeXSnipsWeb.bundle.scp.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\css\\style.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\css\\style.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\css\\tailwind.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\css\\tailwind.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/css/tailwind.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\tailwind.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\ad_pattern.png",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\ad_pattern.png",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/ad_pattern.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\ad_pattern.png"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\affect.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\affect.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/affect.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\affect.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-1.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-1.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-1.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-1.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-2.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-2.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-2.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-2.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-3.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-3.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-3.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-3.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-4.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-4.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-4.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-4.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-5.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-5.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-5.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-5.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-6.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-6.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-6.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-6.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-7.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-7.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-7.jpg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-7.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-1.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-1.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-lg-1.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-lg-1.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-2.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-2.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-lg-2.jpg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-lg-2.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-3.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-3.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-lg-3.jpg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-lg-3.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-4.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-4.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-lg-4.jpg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-lg-4.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-5.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\avatars\\avatar-lg-5.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/avatars/avatar-lg-5.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatars\\avatar-lg-5.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\beams.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\beams.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/demos/beams.jpg",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\demos\\beams.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\grid.svg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\grid.svg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/demos/grid.svg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\demos\\grid.svg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo1.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo1.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/demos/photo1.jpg",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\demos\\photo1.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo2.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo2.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/demos/photo2.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\demos\\photo2.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo3.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\photo3.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/demos/photo3.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\demos\\photo3.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider1.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider1.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/demos/slider1.jpg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\demos\\slider1.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider2.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider2.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/demos/slider2.jpg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\demos\\slider2.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider3.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider3.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/demos/slider3.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\demos\\slider3.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider4.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\demos\\slider4.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/demos/slider4.jpg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\demos\\slider4.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\favicon.png",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\favicon.png",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/favicon.png",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\favicon.png"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\grid.html",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\grid.html",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/grid.html",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\grid.html"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\icon-play.svg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\icon-play.svg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/icon-play.svg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icon-play.svg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo.html",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo.html",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/logo.html",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.html"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo.svg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo.svg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/logo.svg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.svg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo-dark.svg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo-dark.svg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/logo-dark.svg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo-dark.svg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo-icon.png",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\logo-icon.png",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/logo-icon.png",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo-icon.png"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-1.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-1.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/post/post-1.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\post\\post-1.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-2.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-2.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/post/post-2.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\post\\post-2.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-3.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-3.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/post/post-3.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\post\\post-3.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-4.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-4.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/post/post-4.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\post\\post-4.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-5.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\post\\post-5.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/post/post-5.jpg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\post\\post-5.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-1.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-1.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/product/product-1.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\product-1.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-2.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-2.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/product/product-2.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\product-2.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-3.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-3.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/product/product-3.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\product-3.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-4.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-4.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/product/product-4.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\product-4.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-5.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-5.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/product/product-5.jpg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\product-5.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-6.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\product\\product-6.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/product/product-6.jpg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\product-6.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-1.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-1.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/reels/reels-1.jpg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\reels\\reels-1.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-2.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-2.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/reels/reels-2.jpg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\reels\\reels-2.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-3.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-3.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/reels/reels-3.jpg",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\reels\\reels-3.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-4.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-4.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/reels/reels-4.jpg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\reels\\reels-4.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-5.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\images\\reels\\reels-5.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/images/reels/reels-5.jpg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\reels\\reels-5.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\js\\script.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\js\\script.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/js/script.js",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\script.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\js\\uikit.min.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\js\\uikit.min.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/js/uikit.min.js",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\uikit.min.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushJScript.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/syntax-highlighter/scripts/shBrushJScript.js",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushJScript.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushXml.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/syntax-highlighter/scripts/shBrushXml.js",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushXml.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shCore.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\scripts\\shCore.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/syntax-highlighter/scripts/shCore.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\syntax-highlighter\\scripts\\shCore.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\styles\\shCore.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\styles\\shCore.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/syntax-highlighter/styles/shCore.css",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\syntax-highlighter\\styles\\shCore.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\assets\\syntax-highlighter\\styles\\shCoreMidnight.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "assets/syntax-highlighter/styles/shCoreMidnight.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\syntax-highlighter\\styles\\shCoreMidnight.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\css\\site.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\css\\site.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\favicon.ico",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\favicon.ico",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "images/CodeSnippet/0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\CodeSnippet\\0b956db9-ac3e-4722-9ac4-f4cc96ffda50.jpeg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\2529685b-2e22-4e14-8d26-2f987cc56682.mp4",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\2529685b-2e22-4e14-8d26-2f987cc56682.mp4",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "images/CodeSnippet/2529685b-2e22-4e14-8d26-2f987cc56682.mp4",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\images\\CodeSnippet\\2529685b-2e22-4e14-8d26-2f987cc56682.mp4"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\60241a5c-9383-4fca-98e1-1328579f983c.png",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\CodeSnippet\\60241a5c-9383-4fca-98e1-1328579f983c.png",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "images/CodeSnippet/60241a5c-9383-4fca-98e1-1328579f983c.png",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\images\\CodeSnippet\\60241a5c-9383-4fca-98e1-1328579f983c.png"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\default-coder-profile.jpg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\default-coder-profile.jpg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "images/default-coder-profile.jpg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\images\\default-coder-profile.jpg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\1a90d038-0bd2-41e7-bc8f-a0e9c859d20f.jpeg",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\1a90d038-0bd2-41e7-bc8f-a0e9c859d20f.jpeg",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "images/Story/1a90d038-0bd2-41e7-bc8f-a0e9c859d20f.jpeg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Story\\1a90d038-0bd2-41e7-bc8f-a0e9c859d20f.jpeg"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\573e080c-acd5-4445-8932-7c118de0585f.mp4",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\573e080c-acd5-4445-8932-7c118de0585f.mp4",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "images/Story/573e080c-acd5-4445-8932-7c118de0585f.mp4",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Story\\573e080c-acd5-4445-8932-7c118de0585f.mp4"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\87e41d70-dda0-41ce-91e8-484d9b985d32.png",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\Story\\87e41d70-dda0-41ce-91e8-484d9b985d32.png",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "images/Story/87e41d70-dda0-41ce-91e8-484d9b985d32.png",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Story\\87e41d70-dda0-41ce-91e8-484d9b985d32.png"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\User\\c35841c3-aca6-48e1-a792-6744dbc7f3c5.png",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\images\\User\\c35841c3-aca6-48e1-a792-6744dbc7f3c5.png",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "images/User/c35841c3-aca6-48e1-a792-6744dbc7f3c5.png",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\images\\User\\c35841c3-aca6-48e1-a792-6744dbc7f3c5.png"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\js\\site.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\js\\site.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.esm.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.esm.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.esm.js"
     },
     {
-      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.js",
+      "Identity": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\unpkg.com\\ionicons@5.5.2\\dist\\ionicons\\ionicons.js",
       "SourceId": "CodeXSnipsWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
+      "ContentRoot": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips\\wwwroot\\",
       "BasePath": "_content/CodeXSnipsWeb",
       "RelativePath": "unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js",
       "AssetKind": "All",

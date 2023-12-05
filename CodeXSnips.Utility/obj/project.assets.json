@@ -801,11 +801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj",
+      "projectUniqueName": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj",
       "projectName": "CodeXSnips.Utility",
-      "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj",
+      "projectPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.Utility\\CodeXSnips.Utility.csproj",
       "packagesPath": "C:\\Users\\omsha\\.nuget\\packages\\",
-      "outputPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 8)\\CodeXSnips\\CodeXSnips.Utility\\obj\\",
+      "outputPath": "D:\\CoderOm\\ASP.NET Core MVC (.NET 7)\\CodeXSnips\\CodeXSnips.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omsha\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -33,7 +33,9 @@ namespace CodeXSnips.Controllers
 
         public IActionResult Explore()
         {
-            return View();
+            IEnumerable<Models.CodeSnippet> codeSnippetList = _unitOfWork.CodeSnippet.GetAll(includeProperties: "User,Comments,Likes");
+
+            return View(codeSnippetList);
         }
 
         public IActionResult FormLogin()
@@ -53,18 +55,30 @@ namespace CodeXSnips.Controllers
 
         public IActionResult Profile(string id)
         {
-            ApplicationUser model = _unitOfWork.User.Get(u => u.Id == id);
+
+            if (id == null || string.IsNullOrEmpty(id))
+            {
+                string? loggedUserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                if(!string.IsNullOrEmpty(loggedUserId))
+                {
+                    var loggedUserModel = _unitOfWork.User.Get(u => u.Id == loggedUserId, includeProperties: "CodeSnippet");
+                    return View(loggedUserModel);
+                }
+            }
+            var model = _unitOfWork.User.Get(u => u.Id == id, includeProperties: "CodeSnippet");
             return View(model);
         }
 
         public IActionResult Reels()
         {
-            return View();
+            IEnumerable<Models.CodeSnippet> codeSnippetList = _unitOfWork.CodeSnippet.GetAll(includeProperties: "User,Comments,Likes");
+            return View(codeSnippetList);
         }
 
-        public IActionResult ReelsView()
+        public IActionResult ReelView(int id)
         {
-            return View();
+            var reel = _unitOfWork.CodeSnippet.Get(u => u.CodeSnippetId == id, includeProperties: "User,Comments,Likes");
+            return View(reel);
         }
 
         public IActionResult Setting()
@@ -81,7 +95,8 @@ namespace CodeXSnips.Controllers
 
         public IActionResult Coders()
         {
-            return View();
+            IEnumerable<ApplicationUser> applicationUsers = _unitOfWork.User.GetAll();
+            return View(applicationUsers);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
