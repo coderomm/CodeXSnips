@@ -1,4 +1,4 @@
-﻿# CodeXSnips
+﻿# CodeXSnips ( .NET8 )
 
 Welcome to CodeXSnips, a collaborative platform for sharing and exploring code snippets in real-time.
 
